@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="ionstore.ionicpremium.tabs" version="2.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Ionstore 2 - Tabs</name>
-    <description>An awesome WooCommerce app</description>
-    <author email="info@ionicpremium.com" href="http://ionicpremium.com/">Ionic Premium Team</author>
+<widget id="com.vMall.app" version="2.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>vMAll</name>
+    <description></description>
+    <author email="info@vmallapp.com" href="#">vMAll Team</author>
     <content src="index.html" />
     <access allows-arbitrary-loads-for-media="true" allows-arbitrary-loads-in-web-content="true" allows-local-networking="true" origin="*" />
     <allow-navigation href="http://localhost:8080/*" />
